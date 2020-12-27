@@ -1,7 +1,7 @@
 $(function () {
 
     function get_ramadhan_time() {
-        return new Date("April 23, 2020 00:00:00").getTime();
+        return new Date("April 12, 2021 17:37:00").getTime();
     }
 
     function get_current_time() {
